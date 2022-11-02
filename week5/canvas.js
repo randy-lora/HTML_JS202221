@@ -55,7 +55,8 @@ ctx.lineTo(600, 140);
 ctx.closePath();
 ctx.stroke();
 ctx.fill();
-
+//draw an image to canvas
+//create instance of image
 var mario = new Image();
 mario.src = "images/mario.png"
 
